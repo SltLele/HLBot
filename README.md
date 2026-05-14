@@ -1,5 +1,5 @@
 # HLBot_MCbot
-欢迎使用HLB，官方全称Hallo Lele Bot
+欢迎使用HLB，官方全称Hallo Lele Bot，既然来了，就留下你的Star吧！
 这是一个基于 Node.js 和 mineflayer 的 Minecraft 机器人启动与部署工具。交互式启动器可扫描并运行多个脚本，支持离线/微软正版登录（设备码授权），自动处理 SRV 记录。配套图形化部署工具（setup.exe）能一键检测并安装 Node.js、自动创建 package.json、安装依赖、创建桌面快捷方式，并支持无交互模式、一键启动、日志记录等高级功能。用户只需双击启动器即可选择手动输入服务器地址的通用机器人或其他预设脚本。项目开源（MIT 许可证），适合服务器管理员和挂机玩家。环境要求 Windows 10/11 及 Node.js v22+，部署工具可自动完成环境准备，降低使用门槛。
 问题见“help.txt”
 # Minecraft 机器人启动器
