@@ -50,7 +50,7 @@ HLBot 提供一个交互式启动器，可扫描并运行多个机器人脚本�
    - 检测 Node.js（没有会自动下载安装）
    - 选择在线下载或使用本地安装包
    - 自动解压、安装依赖、启动启动器
-安装器下载链接:https://github.com/287f2adb-f881-41c9-9728-da082565c0ff
+安装器下载链接:[点击此处](https://raw.githubusercontent.com/SltLele/HLBot/main/安装器.zip)
 
 ### 方式二：手动安装
 
@@ -273,7 +273,7 @@ The installer auto-detects and guides Node.js installation.
    - Node.js detection (auto-install if missing)
    - Choose online download or local package
    - Auto extract, install deps, launch
-Installer download link: https://github.com/287f2adb-f881-41c9-9728-da082565c0ff
+Installer download link: [Click here](https://raw.githubusercontent.com/SltLele/HLBot/main/安装器.zip)
 
 ### Method 2: Manual install
 
