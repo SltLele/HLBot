@@ -5,6 +5,10 @@
 # Minecraft 机器人启动器
 
 一个轻量、可配置的 Minecraft 机器人（Bot）启动与管理工具，基于 Node.js 和 mineflayer 库。
+# 如何安装？
+全部解压后双击install.bat即可安装
+下载链接:
+blob:https://github.com/287f2adb-f881-41c9-9728-da082565c0ff
 
 ## 功能特性
 
